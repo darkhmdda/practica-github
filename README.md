@@ -6,6 +6,5 @@ Cambio realizado desde mi computadora.
 ## Contacto
 
 Página de contacto del proyecto.
-
 Texto agregado desde main.
-
+Texto agregado desde feature/conflicto.
