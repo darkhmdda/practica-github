@@ -1,0 +1,13 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# Carpetas de dependencias
+node_modules/
+
+# Archivos de configuracion local
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
